@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manoh\\workspace\\csharp\\BangazonSqlExercises\\Bookstore\\Bookstore\\Bookstore.csproj": {}
+    "C:\\Users\\manoh\\workspace\\csharp\\Bookstore\\Bookstore\\Bookstore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manoh\\workspace\\csharp\\BangazonSqlExercises\\Bookstore\\Bookstore\\Bookstore.csproj": {
+    "C:\\Users\\manoh\\workspace\\csharp\\Bookstore\\Bookstore\\Bookstore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manoh\\workspace\\csharp\\BangazonSqlExercises\\Bookstore\\Bookstore\\Bookstore.csproj",
+        "projectUniqueName": "C:\\Users\\manoh\\workspace\\csharp\\Bookstore\\Bookstore\\Bookstore.csproj",
         "projectName": "Bookstore",
-        "projectPath": "C:\\Users\\manoh\\workspace\\csharp\\BangazonSqlExercises\\Bookstore\\Bookstore\\Bookstore.csproj",
+        "projectPath": "C:\\Users\\manoh\\workspace\\csharp\\Bookstore\\Bookstore\\Bookstore.csproj",
         "packagesPath": "C:\\Users\\manoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manoh\\workspace\\csharp\\BangazonSqlExercises\\Bookstore\\Bookstore\\obj\\",
+        "outputPath": "C:\\Users\\manoh\\workspace\\csharp\\Bookstore\\Bookstore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,10 @@
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[3.1.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[3.1.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
